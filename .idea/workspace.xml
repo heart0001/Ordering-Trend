@@ -19,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -50,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/itheima/reggie/config" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -63,11 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\java\com\itheima\reggie\config" />
       <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\.idea" />
       <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
       <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\resources\front" />
       <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\java\com\itheima\reggie\controller" />
-      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ReggieApplication">
@@ -144,8 +149,16 @@
       <workItem from="1689471541066" duration="1251000" />
       <workItem from="1689560640436" duration="1617000" />
       <workItem from="1689907069827" duration="779000" />
-      <workItem from="1690084638416" duration="1773000" />
+      <workItem from="1690084638416" duration="3739000" />
     </task>
+    <task id="LOCAL-00001" summary="加入redis，缓存验证码和菜品">
+      <created>1690087100176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690087100176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +169,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="v1.0" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
