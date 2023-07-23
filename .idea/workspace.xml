@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fc1d1ac-8df8-4ff0-8427-cba8c4d5b3b2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/App/codeApp2/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Program Files\App\codeApp2\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2QVBpFUi9UHWozXblW2BcfVjfEI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="JavaClassFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1507799" />
+    <property name="project.structure.side.proportion" value="0.4255814" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.User-Defined File Types" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\.idea" />
+      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
+      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\resources\front" />
+      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\java\com\itheima\reggie\controller" />
+      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+    <configuration name="UploadFileTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.UploadFileTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="JUnit.UploadFileTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fc1d1ac-8df8-4ff0-8427-cba8c4d5b3b2" name="Changes" comment="" />
+      <created>1685429052957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685429052957</updated>
+      <workItem from="1685429055233" duration="944000" />
+      <workItem from="1685531452933" duration="8472000" />
+      <workItem from="1685585371035" duration="894000" />
+      <workItem from="1685616998884" duration="70000" />
+      <workItem from="1685620902697" duration="5803000" />
+      <workItem from="1685674374735" duration="26000" />
+      <workItem from="1686032577670" duration="6608000" />
+      <workItem from="1686046288158" duration="1593000" />
+      <workItem from="1686048063423" duration="7134000" />
+      <workItem from="1686061993242" duration="993000" />
+      <workItem from="1686138039744" duration="134000" />
+      <workItem from="1687692885687" duration="1335000" />
+      <workItem from="1687777726466" duration="6194000" />
+      <workItem from="1687956934199" duration="165000" />
+      <workItem from="1688692282352" duration="1048000" />
+      <workItem from="1688694126009" duration="14803000" />
+      <workItem from="1688777903096" duration="14821000" />
+      <workItem from="1688866401164" duration="12933000" />
+      <workItem from="1688951315648" duration="4110000" />
+      <workItem from="1688957019418" duration="14893000" />
+      <workItem from="1689037893377" duration="13962000" />
+      <workItem from="1689126886895" duration="15954000" />
+      <workItem from="1689214324816" duration="8826000" />
+      <workItem from="1689245047988" duration="3821000" />
+      <workItem from="1689297226963" duration="16655000" />
+      <workItem from="1689387211283" duration="14907000" />
+      <workItem from="1689471541066" duration="1251000" />
+      <workItem from="1689560640436" duration="1617000" />
+      <workItem from="1689907069827" duration="779000" />
+      <workItem from="1690084638416" duration="1773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="加入redis，缓存验证码和菜品" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入redis，缓存验证码和菜品" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/EmployeeController.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/GlobalExceptionHandler.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/DishController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/ShoppingCartController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoSuchMethodError" package="java.lang" />
+          <option name="timeStamp" value="15" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
