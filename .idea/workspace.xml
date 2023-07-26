@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fc1d1ac-8df8-4ff0-8427-cba8c4d5b3b2" name="Changes" comment="" />
+    <list default="true" id="8fc1d1ac-8df8-4ff0-8427-cba8c4d5b3b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../1789927504/Desktop/资料文档ing/瑞吉外卖/5 瑞吉外卖项目优化篇/资料/day01/cache_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../1789927504/Desktop/资料文档ing/瑞吉外卖/5 瑞吉外卖项目优化篇/资料/day02/rw_demo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -159,6 +161,10 @@
       <workItem from="1690190196302" duration="1312000" />
       <workItem from="1690199221744" duration="1540000" />
       <workItem from="1690200820808" duration="1642000" />
+      <workItem from="1690253540388" duration="596000" />
+      <workItem from="1690255640717" duration="1000" />
+      <workItem from="1690344671745" duration="63000" />
+      <workItem from="1690349484741" duration="1960000" />
     </task>
     <task id="LOCAL-00001" summary="加入redis，缓存验证码和菜品">
       <created>1690087100176</created>
@@ -206,7 +212,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="加入redis，缓存验证码和菜品" />
     <MESSAGE value="redis环境的配置(pox、Config)" />
-    <option name="LAST_COMMIT_MESSAGE" value="redis环境的配置(pox、Config)" />
+    <MESSAGE value="使用SpringCache缓存套餐数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用SpringCache缓存套餐数据" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
