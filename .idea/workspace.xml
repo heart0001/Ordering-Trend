@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="V1.2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,16 +56,17 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../1789927504/Desktop/资料文档ing/瑞吉外卖/5 瑞吉外卖项目优化篇/资料/day02/rw_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../1789927504/Desktop/1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.1507799" />
     <property name="project.structure.side.proportion" value="0.4255814" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -112,6 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="JUnit.UploadFileTest.test1" />
         <item itemvalue="Spring Boot.ReggieApplication" />
         <item itemvalue="JUnit.UploadFileTest.test1" />
       </list>
@@ -163,6 +166,8 @@
       <workItem from="1690344671745" duration="63000" />
       <workItem from="1690349484741" duration="1960000" />
       <workItem from="1690520040638" duration="4462000" />
+      <workItem from="1690606133894" duration="103000" />
+      <workItem from="1690608356077" duration="2325000" />
     </task>
     <task id="LOCAL-00001" summary="加入redis，缓存验证码和菜品">
       <created>1690087100176</created>
@@ -178,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690088938341</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="合并v1.2后的Master版本">
+      <created>1690606262131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690606262131</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +223,8 @@
     <MESSAGE value="加入redis，缓存验证码和菜品" />
     <MESSAGE value="redis环境的配置(pox、Config)" />
     <MESSAGE value="使用SpringCache缓存套餐数据" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用SpringCache缓存套餐数据" />
+    <MESSAGE value="合并v1.2后的Master版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="合并v1.2后的Master版本" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
