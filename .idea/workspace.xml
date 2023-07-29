@@ -65,7 +65,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.1507799" />
     <property name="project.structure.side.proportion" value="0.4255814" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -114,9 +114,6 @@
       <list>
         <item itemvalue="Spring Boot.ReggieApplication" />
         <item itemvalue="JUnit.UploadFileTest.test1" />
-        <item itemvalue="Spring Boot.ReggieApplication" />
-        <item itemvalue="JUnit.UploadFileTest.test1" />
-        <item itemvalue="Spring Boot.ReggieApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +162,7 @@
       <workItem from="1690255640717" duration="1000" />
       <workItem from="1690344671745" duration="63000" />
       <workItem from="1690349484741" duration="1960000" />
+      <workItem from="1690520040638" duration="4462000" />
     </task>
     <task id="LOCAL-00001" summary="加入redis，缓存验证码和菜品">
       <created>1690087100176</created>

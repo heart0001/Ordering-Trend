@@ -44,7 +44,12 @@ public class LoginCheckFilter implements Filter{
                 "/front/**",
                 "/common/**",
                 "/user/sendMsg",//移动端发送短信
-                "/user/login" //移动端登录
+                "/user/login", //移动端登录
+                "/doc.html",
+                "/web.jars/**",
+                "/swagger-resources",
+                "/v2/api-docs"
+
         };
 
 
