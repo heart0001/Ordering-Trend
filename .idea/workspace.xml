@@ -167,7 +167,7 @@
       <workItem from="1690349484741" duration="1960000" />
       <workItem from="1690520040638" duration="4462000" />
       <workItem from="1690606133894" duration="103000" />
-      <workItem from="1690608356077" duration="2958000" />
+      <workItem from="1690608356077" duration="3333000" />
     </task>
     <task id="LOCAL-00001" summary="加入redis，缓存验证码和菜品">
       <created>1690087100176</created>
@@ -197,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690611156782</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="改图片路径为Linux下的路径">
+      <created>1690611860734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690611860734</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
