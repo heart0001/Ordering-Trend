@@ -41,7 +41,7 @@
 
 ### 管理端：
 
-<img src=https://img-blog.csdnimg.cn/e717f944834641c989399d5bfc9ff4b3.png#pic_center" alt="image-20230905115651482" style="zoom:50%;" />
+<img src="https://img-blog.csdnimg.cn/e717f944834641c989399d5bfc9ff4b3.png#pic_center" alt="image-20230905115651482" style="zoom:50%;" />
 
 <img src="D:/Program%20Files%20(x86)/Code/typoraFile/TyporaPic/6/image-20230905120510577.png" alt="image-20230905120510577" style="zoom:50%;" />
 
