@@ -3,7 +3,7 @@ server:
 spring:
   application:
     #应用的名称，可选
-    name: reggie_take_out
+    name: Ordering-Trend
   shardingsphere:
     datasource:
       names:
@@ -12,15 +12,15 @@ spring:
       master:
         type: com.alibaba.druid.pool.DruidDataSource
         driver-class-name: com.mysql.cj.jdbc.Driver
-        url: jdbc:mysql://192.168.122.100:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
-        username: root
+        url: jdbc:mysql://localhost:3306/reggie
+        username: reggie
         password: root
       # 从数据源
       slave:
         type: com.alibaba.druid.pool.DruidDataSource
         driver-class-name: com.mysql.cj.jdbc.Driver
-        url: jdbc:mysql://192.168.122.131:3306/reggie?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
-        username: root
+        url: jdbc:mysql://localhost:3306/reggieb
+        username: reggieB
         password: root
     masterslave:
       # 读写分离配置
@@ -38,10 +38,11 @@ spring:
     allow-bean-definition-overriding: true
 
   redis:
-    host: 127.0.0.1
+    database: 1
+    host: localhost
     port: 6379
-    password:
-    database: 0
+    timeout: 5000
+    password: 123456
   cache:
     redis:
       time-to-live: 1800000 #设置缓存数据的过期时间
@@ -54,4 +55,4 @@ mybatis-plus:
     db-config:
       id-type: ASSIGN_ID
 reggie:
-  path: /usr/local/img/
+  path: D:\img

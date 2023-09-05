@@ -41,6 +41,7 @@
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2QVBpFUi9UHWozXblW2BcfVjfEI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,12 +59,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../1789927504/Desktop/1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.1507799" />
     <property name="project.structure.side.proportion" value="0.4255814" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -74,11 +75,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\resources\backend\images\login" />
+      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\resources\backend\images" />
       <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\java\com\itheima\reggie\config" />
       <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\.idea" />
       <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
-      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\resources\front" />
-      <recent name="D:\Program Files (x86)\Code\mavenprojects\reggie_take_out\src\main\java\com\itheima\reggie\controller" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ReggieApplication">
@@ -167,7 +168,11 @@
       <workItem from="1690349484741" duration="1960000" />
       <workItem from="1690520040638" duration="4462000" />
       <workItem from="1690606133894" duration="103000" />
-      <workItem from="1690608356077" duration="3333000" />
+      <workItem from="1690608356077" duration="3752000" />
+      <workItem from="1691033172879" duration="9000" />
+      <workItem from="1691572878151" duration="19000" />
+      <workItem from="1693798544085" duration="4008000" />
+      <workItem from="1693884645117" duration="3356000" />
     </task>
     <task id="LOCAL-00001" summary="加入redis，缓存验证码和菜品">
       <created>1690087100176</created>
@@ -204,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690611860734</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="改图片路径为Linux下的路径">
+      <created>1690612018247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690612018247</updated>
+    </task>
+    <task id="LOCAL-00007" summary="123">
+      <created>1690612075724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690612075724</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +258,8 @@
     <MESSAGE value="使用SpringCache缓存套餐数据" />
     <MESSAGE value="合并v1.2后的Master版本" />
     <MESSAGE value="改图片路径为Linux下的路径" />
-    <option name="LAST_COMMIT_MESSAGE" value="改图片路径为Linux下的路径" />
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
